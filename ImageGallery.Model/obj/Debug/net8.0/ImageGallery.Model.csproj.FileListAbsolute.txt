@@ -1,0 +1,12 @@
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Model\bin\Debug\net8.0\ImageGallery.Model.deps.json
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Model\bin\Debug\net8.0\ImageGallery.Model.dll
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Model\bin\Debug\net8.0\ImageGallery.Model.pdb
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Model\obj\Debug\net8.0\ImageGallery.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Model\obj\Debug\net8.0\ImageGallery.Model.AssemblyInfoInputs.cache
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Model\obj\Debug\net8.0\ImageGallery.Model.AssemblyInfo.cs
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Model\obj\Debug\net8.0\ImageGallery.Model.csproj.CoreCompileInputs.cache
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Model\obj\Debug\net8.0\ImageGallery.Model.sourcelink.json
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Model\obj\Debug\net8.0\ImageGallery.Model.dll
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Model\obj\Debug\net8.0\refint\ImageGallery.Model.dll
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Model\obj\Debug\net8.0\ImageGallery.Model.pdb
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Model\obj\Debug\net8.0\ref\ImageGallery.Model.dll
