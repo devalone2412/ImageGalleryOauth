@@ -1,0 +1,13 @@
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Authorization\bin\Debug\net8.0\ImageGallery.Authorization.deps.json
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Authorization\bin\Debug\net8.0\ImageGallery.Authorization.dll
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Authorization\bin\Debug\net8.0\ImageGallery.Authorization.pdb
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Authorization\obj\Debug\net8.0\ImageGallery.Authorization.csproj.AssemblyReference.cache
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Authorization\obj\Debug\net8.0\ImageGallery.Authorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Authorization\obj\Debug\net8.0\ImageGallery.Authorization.AssemblyInfoInputs.cache
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Authorization\obj\Debug\net8.0\ImageGallery.Authorization.AssemblyInfo.cs
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Authorization\obj\Debug\net8.0\ImageGallery.Authorization.csproj.CoreCompileInputs.cache
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Authorization\obj\Debug\net8.0\ImageGallery.Authorization.sourcelink.json
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Authorization\obj\Debug\net8.0\ImageGallery.Authorization.dll
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Authorization\obj\Debug\net8.0\refint\ImageGallery.Authorization.dll
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Authorization\obj\Debug\net8.0\ImageGallery.Authorization.pdb
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Authorization\obj\Debug\net8.0\ref\ImageGallery.Authorization.dll

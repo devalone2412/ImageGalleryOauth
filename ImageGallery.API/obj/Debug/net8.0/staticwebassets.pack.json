@@ -37,8 +37,16 @@
       "PackagePath": "staticwebassets\\Images\\94878996-e040-44ef-a668-0bf17d966062.JPG"
     },
     {
+      "Id": "D:\\projects\\SecuringAspNetCoreWithOAuth2andOIDC\\Starter files\\ImageGallery.API\\wwwroot\\Images\\aa9135b4-6809-4d1b-a3bb-1eeeba3a90b2.jpg",
+      "PackagePath": "staticwebassets\\Images\\aa9135b4-6809-4d1b-a3bb-1eeeba3a90b2.jpg"
+    },
+    {
       "Id": "D:\\projects\\SecuringAspNetCoreWithOAuth2andOIDC\\Starter files\\ImageGallery.API\\wwwroot\\Images\\b2894002-0b7c-4f05-896a-856283012c87.jpg",
       "PackagePath": "staticwebassets\\Images\\b2894002-0b7c-4f05-896a-856283012c87.jpg"
+    },
+    {
+      "Id": "D:\\projects\\SecuringAspNetCoreWithOAuth2andOIDC\\Starter files\\ImageGallery.API\\wwwroot\\Images\\c34b68d1-141d-455a-a8e1-611e6bdde7a6.jpg",
+      "PackagePath": "staticwebassets\\Images\\c34b68d1-141d-455a-a8e1-611e6bdde7a6.jpg"
     },
     {
       "Id": "D:\\projects\\SecuringAspNetCoreWithOAuth2andOIDC\\Starter files\\ImageGallery.API\\wwwroot\\Images\\cc412f08-2a7b-4225-b659-07fdb168302d.JPG",

@@ -27,7 +27,6 @@ D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Clien
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\obj\Debug\net8.0\scopedcss\bundle\ImageGallery.Client.styles.css
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\obj\Debug\net8.0\scopedcss\projectbundle\ImageGallery.Client.bundle.scp.css
-D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\obj\Debug\net8.0\ImageGallery.Client.csproj.CopyComplete
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\obj\Debug\net8.0\ImageGallery.Client.dll
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\obj\Debug\net8.0\refint\ImageGallery.Client.dll
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\obj\Debug\net8.0\ImageGallery.Client.pdb
@@ -41,3 +40,13 @@ D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Clien
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\obj\Debug\net8.0\ImageGal.D1DD7335.Up2Date
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\bin\Debug\net8.0\IdentityModel.dll
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\bin\Debug\net8.0\IdentityModel.AspNetCore.dll
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\bin\Debug\net8.0\ImageGallery.Authorization.dll
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client\bin\Debug\net8.0\ImageGallery.Authorization.pdb

@@ -40,7 +40,6 @@ D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\Marvin.IDP\obj\Deb
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\Marvin.IDP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Marvin.IDP.props
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\Marvin.IDP\obj\Debug\net8.0\staticwebassets.pack.json
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\Marvin.IDP\obj\Debug\net8.0\scopedcss\bundle\Marvin.IDP.styles.css
-D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\Marvin.IDP\obj\Debug\net8.0\Marvin.IDP.csproj.CopyComplete
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\Marvin.IDP\obj\Debug\net8.0\Marvin.IDP.dll
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\Marvin.IDP\obj\Debug\net8.0\refint\Marvin.IDP.dll
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\Marvin.IDP\obj\Debug\net8.0\Marvin.IDP.pdb
@@ -50,3 +49,5 @@ D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\Marvin.IDP\bin\Deb
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\Marvin.IDP\bin\Debug\net8.0\Marvin.IDP.staticwebassets.runtime.json
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\Marvin.IDP\obj\Debug\net8.0\Marvin.IDP.RazorAssemblyInfo.cache
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\Marvin.IDP\obj\Debug\net8.0\Marvin.IDP.RazorAssemblyInfo.cs
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\Marvin.IDP\obj\Debug\net8.0\Marvin.IDP.csproj.Up2Date
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\Marvin.IDP\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll

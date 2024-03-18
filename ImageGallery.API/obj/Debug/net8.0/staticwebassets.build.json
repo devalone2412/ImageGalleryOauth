@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pB1nGtskEVJyldZPgBPLWwHpx1FZPAvOPTYwcxFY3LA=",
+  "Hash": "aa1N1Imoeuwg/Xu9zURVDsQiBlxCLkzsVZ7VB8Qo12E=",
   "Source": "ImageGallery.API",
   "BasePath": "_content/ImageGallery.API",
   "Mode": "Default",
@@ -188,6 +188,25 @@
       "OriginalItemSpec": "wwwroot\\Images\\94878996-e040-44ef-a668-0bf17d966062.JPG"
     },
     {
+      "Identity": "D:\\projects\\SecuringAspNetCoreWithOAuth2andOIDC\\Starter files\\ImageGallery.API\\wwwroot\\Images\\aa9135b4-6809-4d1b-a3bb-1eeeba3a90b2.jpg",
+      "SourceId": "ImageGallery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\projects\\SecuringAspNetCoreWithOAuth2andOIDC\\Starter files\\ImageGallery.API\\wwwroot\\",
+      "BasePath": "_content/ImageGallery.API",
+      "RelativePath": "Images/aa9135b4-6809-4d1b-a3bb-1eeeba3a90b2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\aa9135b4-6809-4d1b-a3bb-1eeeba3a90b2.jpg"
+    },
+    {
       "Identity": "D:\\projects\\SecuringAspNetCoreWithOAuth2andOIDC\\Starter files\\ImageGallery.API\\wwwroot\\Images\\b2894002-0b7c-4f05-896a-856283012c87.jpg",
       "SourceId": "ImageGallery.API",
       "SourceType": "Discovered",
@@ -205,6 +224,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\b2894002-0b7c-4f05-896a-856283012c87.jpg"
+    },
+    {
+      "Identity": "D:\\projects\\SecuringAspNetCoreWithOAuth2andOIDC\\Starter files\\ImageGallery.API\\wwwroot\\Images\\c34b68d1-141d-455a-a8e1-611e6bdde7a6.jpg",
+      "SourceId": "ImageGallery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\projects\\SecuringAspNetCoreWithOAuth2andOIDC\\Starter files\\ImageGallery.API\\wwwroot\\",
+      "BasePath": "_content/ImageGallery.API",
+      "RelativePath": "Images/c34b68d1-141d-455a-a8e1-611e6bdde7a6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\c34b68d1-141d-455a-a8e1-611e6bdde7a6.jpg"
     },
     {
       "Identity": "D:\\projects\\SecuringAspNetCoreWithOAuth2andOIDC\\Starter files\\ImageGallery.API\\wwwroot\\Images\\cc412f08-2a7b-4225-b659-07fdb168302d.JPG",

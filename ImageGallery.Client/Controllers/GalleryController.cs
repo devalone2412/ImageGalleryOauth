@@ -128,6 +128,7 @@ namespace ImageGallery.Client.Controllers
             return RedirectToAction("Index");
         }
 
+        [Authorize(Roles = "PayingUser")]
         public IActionResult AddImage()
         {
             return View();
@@ -135,6 +136,8 @@ namespace ImageGallery.Client.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "UserCanAddImage")]
+        // [Authorize(Roles = "PayingUser")]
         public async Task<IActionResult> AddImage(AddImageViewModel addImageViewModel)
         {
             if (!ModelState.IsValid)
@@ -186,6 +189,8 @@ namespace ImageGallery.Client.Controllers
         {
             var identityToken = await HttpContext.GetTokenAsync(OpenIdConnectParameterNames.IdToken);
 
+            var accessToken = await HttpContext.GetTokenAsync(OpenIdConnectParameterNames.AccessToken);
+            
             var userClaimsStringBuilder = new StringBuilder();
             foreach (var claim in User.Claims)
             {
@@ -194,6 +199,7 @@ namespace ImageGallery.Client.Controllers
 
             _logger.LogInformation(
                 $"Identity token & user claims: \n{identityToken} \n{userClaimsStringBuilder}");
+            _logger.LogInformation($"Access token: {accessToken}");
         }
     }
 }
