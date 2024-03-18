@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.Client
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/projects/SecuringAspNetCoreWithOAuth2andOIDC/Starter files/ImageGallery.Client/Views/Authentication/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cQWNjZXNzRGVuaWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/projects/SecuringAspNetCoreWithOAuth2andOIDC/Starter files/ImageGallery.Client/Views/Gallery/AddImage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsbGVyeVxBZGRJbWFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
