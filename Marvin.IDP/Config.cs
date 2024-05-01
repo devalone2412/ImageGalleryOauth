@@ -19,7 +19,8 @@ public static class Config
     {
         new("imagegalleryapi", "Image Gallery API", new[] { "role", "country" })
         {
-            Scopes = { "imagegalleryapi.fullaccess", "imagegalleryapi.read", "imagegalleryapi.write" }
+            Scopes = { "imagegalleryapi.fullaccess", "imagegalleryapi.read", "imagegalleryapi.write" },
+            ApiSecrets = {new Secret("apisecret".Sha256())}
         }
     };
 
@@ -39,7 +40,10 @@ public static class Config
                 ClientName = "Image Gallery",
                 ClientId = "imagegalleryclient",
                 AllowedGrantTypes = GrantTypes.Code,
+                AccessTokenType = AccessTokenType.Reference,
                 AccessTokenLifetime = 120,
+                UpdateAccessTokenClaimsOnRefresh = true,
+                AllowOfflineAccess = true,
                 // AuthorizationCodeLifetime = ...
                 // IdentityTokenLifetime = ...
                 RedirectUris =
@@ -64,7 +68,42 @@ public static class Config
                 {
                     new Secret("secret".Sha256())
                 },
-                RequireConsent = true
+                // RequireConsent = true
+            },
+            new()
+            {
+                ClientName = "Image Gallery BFF",
+                ClientId = "imagegallerybff",
+                AllowedGrantTypes = GrantTypes.Code,
+                AccessTokenType = AccessTokenType.Reference,
+                AccessTokenLifetime = 120,
+                UpdateAccessTokenClaimsOnRefresh = true,
+                AllowOfflineAccess = true,
+                // AuthorizationCodeLifetime = ...
+                // IdentityTokenLifetime = ...
+                RedirectUris =
+                {
+                    "https://localhost:7119/signin-oidc"
+                },
+                PostLogoutRedirectUris =
+                {
+                    "https://localhost:7119/signout-callback-oidc"
+                },
+                AllowedScopes =
+                {
+                    IdentityServerConstants.StandardScopes.OpenId,
+                    IdentityServerConstants.StandardScopes.Profile,
+                    "roles",
+                    // "imagegalleryapi.fullaccess",
+                    "imagegalleryapi.read",
+                    "imagegalleryapi.write",
+                    "country"
+                },
+                ClientSecrets =
+                {
+                    new Secret("anothersecret".Sha256())
+                },
+                // RequireConsent = true
             }
         };
 }

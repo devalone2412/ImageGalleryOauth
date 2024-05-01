@@ -11,7 +11,7 @@
           "IdentityModel.AspNetCore": "4.3.0",
           "ImageGallery.Authorization": "1.0.0",
           "ImageGallery.Model": "1.0.0",
-          "Microsoft.AspNetCore.Authentication.OpenIdConnect": "8.0.3"
+          "Microsoft.AspNetCore.Authentication.OpenIdConnect": "8.0.4"
         },
         "runtime": {
           "ImageGallery.Client.dll": {}
@@ -28,7 +28,7 @@
       "IdentityModel.AspNetCore/4.3.0": {
         "dependencies": {
           "IdentityModel": "6.0.0",
-          "Microsoft.AspNetCore.Authentication.OpenIdConnect": "8.0.3"
+          "Microsoft.AspNetCore.Authentication.OpenIdConnect": "8.0.4"
         },
         "runtime": {
           "lib/net6.0/IdentityModel.AspNetCore.dll": {
@@ -37,35 +37,35 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Authentication.OpenIdConnect/8.0.3": {
+      "Microsoft.AspNetCore.Authentication.OpenIdConnect/8.0.4": {
         "dependencies": {
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "7.1.2"
         },
         "runtime": {
           "lib/net8.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll": {
-            "assemblyVersion": "8.0.3.0",
-            "fileVersion": "8.0.324.11615"
+            "assemblyVersion": "8.0.4.0",
+            "fileVersion": "8.0.424.17014"
           }
         }
       },
-      "Microsoft.AspNetCore.Authorization/8.0.3": {
+      "Microsoft.AspNetCore.Authorization/8.0.4": {
         "dependencies": {
-          "Microsoft.AspNetCore.Metadata": "8.0.3",
+          "Microsoft.AspNetCore.Metadata": "8.0.4",
           "Microsoft.Extensions.Logging.Abstractions": "8.0.1",
           "Microsoft.Extensions.Options": "8.0.2"
         },
         "runtime": {
           "lib/net8.0/Microsoft.AspNetCore.Authorization.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.324.11615"
+            "fileVersion": "8.0.424.17014"
           }
         }
       },
-      "Microsoft.AspNetCore.Metadata/8.0.3": {
+      "Microsoft.AspNetCore.Metadata/8.0.4": {
         "runtime": {
           "lib/net8.0/Microsoft.AspNetCore.Metadata.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.324.11615"
+            "fileVersion": "8.0.424.17014"
           }
         }
       },
@@ -180,7 +180,7 @@
       },
       "ImageGallery.Authorization/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Authorization": "8.0.3"
+          "Microsoft.AspNetCore.Authorization": "8.0.4"
         },
         "runtime": {
           "ImageGallery.Authorization.dll": {}
@@ -213,26 +213,26 @@
       "path": "identitymodel.aspnetcore/4.3.0",
       "hashPath": "identitymodel.aspnetcore.4.3.0.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Authentication.OpenIdConnect/8.0.3": {
+    "Microsoft.AspNetCore.Authentication.OpenIdConnect/8.0.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-23d/HjzJQN2CJrBpCDqSjbZQMBPpHEhTFXAN5Xoo3CODsJVcAZBqluobUjVoRtlGcn3/C9vRzAfqN53ATRd1UA==",
-      "path": "microsoft.aspnetcore.authentication.openidconnect/8.0.3",
-      "hashPath": "microsoft.aspnetcore.authentication.openidconnect.8.0.3.nupkg.sha512"
+      "sha512": "sha512-REVWecEYp7b9xuZzRgq09QjeQTlpA478AEZYWsjc7aa8zu+/TrAGRQbZW2YT3VpsdNl/Fv592sKt0gAnt+0hEw==",
+      "path": "microsoft.aspnetcore.authentication.openidconnect/8.0.4",
+      "hashPath": "microsoft.aspnetcore.authentication.openidconnect.8.0.4.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Authorization/8.0.3": {
+    "Microsoft.AspNetCore.Authorization/8.0.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-9Nic17acgZbysUlhGc+TEd9F8jI01kC6+V31sC7/xI5v2OSWGL8NhdYaB/Iu4KnDRoQEolg6qvepGsVfeYpIYA==",
-      "path": "microsoft.aspnetcore.authorization/8.0.3",
-      "hashPath": "microsoft.aspnetcore.authorization.8.0.3.nupkg.sha512"
+      "sha512": "sha512-dzYUHvqyavBiYVd5BZNAgV5rT+DC4HyIWPnbeYgxQNBYOFomvvwzPfidQf1Ld/HhkXhEj3tlzqNb4gy2P2ukUg==",
+      "path": "microsoft.aspnetcore.authorization/8.0.4",
+      "hashPath": "microsoft.aspnetcore.authorization.8.0.4.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Metadata/8.0.3": {
+    "Microsoft.AspNetCore.Metadata/8.0.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-MAdmICjtSckGDutLRMydRI0pvBcGw/WoC4UC+hZ999idVW96l5iJlhyrtakgYkF5Rp0ekNVNWA+onP2gJZUkpw==",
-      "path": "microsoft.aspnetcore.metadata/8.0.3",
-      "hashPath": "microsoft.aspnetcore.metadata.8.0.3.nupkg.sha512"
+      "sha512": "sha512-TG3JhI7dkDCIoxZ3TL/5yptLYLg56w1f4jE8GSYnZXSso1xY5JKKCxObK+xKQJU5kZir30+QUGX1WpbC1kDcow==",
+      "path": "microsoft.aspnetcore.metadata/8.0.4",
+      "hashPath": "microsoft.aspnetcore.metadata.8.0.4.nupkg.sha512"
     },
     "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.1": {
       "type": "package",

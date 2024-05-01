@@ -141,3 +141,5 @@ D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.API\b
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.API\bin\Debug\net8.0\ImageGallery.Authorization.dll
 D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.API\bin\Debug\net8.0\ImageGallery.Authorization.pdb
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.API\bin\Debug\net8.0\IdentityModel.dll
+D:\projects\SecuringAspNetCoreWithOAuth2andOIDC\Starter files\ImageGallery.API\bin\Debug\net8.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
